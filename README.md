@@ -27,8 +27,8 @@ Masa RQ adalah WEBSITE sekolah yang dibangun dengan Laravel. website ini dapat m
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/dzraka/classign.git
-cd classign
+git clone https://github.com/AryaPutra-i/Masa_RQ.git
+cd Masa_RQ
 ```
 
 ### 2. Install Dependencies
@@ -90,7 +90,7 @@ Untuk production, pastikan web server sudah dikonfigurasi dengan benar dan arahk
 ## Struktur Proyek
 
 ```
-ClAssign/
+Masa_RQ/
 ├── app/
 │   ├── Http/Controllers/     # Controllers
 │   ├── Models/              # Eloquent Models
